@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "name": "ubuntu_20",
+      "builder_type": "azure-arm",
+      "build_time": 1638978902,
+      "files": null,
+      "artifact_id": "/subscriptions/d0f6eb41-3e86-48da-bc57-893eab20796f/resourceGroups/packer_images/providers/Microsoft.Compute/images/packer-ubuntu-azure-1638978329",
+      "packer_run_uuid": "f64dfef1-e20a-6fe3-64dd-72e468eb05f0",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "f64dfef1-e20a-6fe3-64dd-72e468eb05f0"
+}
